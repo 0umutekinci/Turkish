@@ -132,6 +132,7 @@ while True:
         print("----------------------------------")
         print("Tebrikler Doğru Cevap!")#Cevap doğruysa
         print(f"Skorunuz: {skor}")
+        print(f"Canınız: {can}")
         print("----------------------------------")
         time.sleep(0.5)
     else:
@@ -139,6 +140,7 @@ while True:
         print("----------------------------------")
         print("Biraz Daha Çalışmalısın :(")#Cevap yanlışsa
         print(f"Skorunuz: {skor}")
+        print(f"Canınız: {can}")
         print("----------------------------------")
         time.sleep(0.5)
 # Github: @0umutekinci
